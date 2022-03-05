@@ -6,15 +6,21 @@
     margin: auto!important;
 }
 .medium_line {
-    margin-top: 1%!important;
-    margin-left: 1%!important;
+    /* margin-top: 1%!important;
+    margin-left: 1%!important; */
+    width: 100%;
+    padding: 3px 3%;
 }
 .title {
     border-bottom: solid #287eed 2px;
     width:95%;
 }
+.exp_and_comp {
+    margin: 0px!important;
+    width: 100%;
+}
 .padd {
-    padding-left: 2%;
+    /* padding-left: 2%; */
 }
 body {
     /* background-color: #161617!important; */
