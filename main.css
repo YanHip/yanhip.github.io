@@ -2,13 +2,15 @@
     margin-top: 2%;
 }
 .row {
-    width: 100%;
+    width: 85%;
+    margin: auto!important;
 }
 .medium_line {
     margin-top: 1%;
 }
 .title {
     border-bottom: solid #287eed 2px;
+    width:95%;
 }
 .padd {
     padding-left: 2%;
