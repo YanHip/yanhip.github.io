@@ -18,6 +18,7 @@
 .exp_and_comp {
     margin: 0px!important;
     width: 100%;
+    display: inline-block!important;
 }
 .padd {
     /* padding-left: 2%; */
