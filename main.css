@@ -27,7 +27,16 @@
 }
 .row_block{
     margin-bottom: 15px!important;
-
+}
+.subtitle {
+	max-width: 27%!important;
+	justify-content: flex-start;
+}
+.competence{
+	min-width: 12.5%!important;
+	max-width: 12.5%!important;
+	display: flex;
+    flex-direction: column;
 }
 .padd {
 	/* padding-left: 2%; */
