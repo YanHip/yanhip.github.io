@@ -45,8 +45,8 @@ body {
 	/* background-color: #161617!important; */
 	/* color: #c2c2c2 !important; */
 }
-.icon {
-	/* width: 7%; */
+.stars {
+	width: 10%;
 }
 
 @media screen and (max-width: 576px) {
