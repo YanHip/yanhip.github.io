@@ -103,7 +103,7 @@ a {
 .subtitle strong {
   text-align: center;
 }
-.row_block {
+.row_botmarg {
   margin-bottom: 5px;
 }
 .experience_description {
@@ -128,4 +128,28 @@ a {
 }
 .stars {
   width: 15%;
+}
+
+@media only screen and (max-width: 600px) {
+  .switch_row_col {
+    flex-direction: column;
+  }
+  .switch_col_row {
+    flex-direction: row;
+  }
+  .mediaq_margin {
+    margin-bottom: 10px;
+  }
+  .display_border {
+    border-bottom: solid #8abdff 2px;
+  }
+  .subtitle {
+    width: 100%;
+  }
+  .experience_description {
+    max-width: 100%;
+  }
+  .mediaq_to_display{
+    display: none;
+  }
 }
